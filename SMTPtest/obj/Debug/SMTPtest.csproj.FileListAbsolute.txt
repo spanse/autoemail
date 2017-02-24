@@ -1,0 +1,14 @@
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\bin\Debug\SMTPtest.exe.config
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\bin\Debug\SMTPtest.exe
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\bin\Debug\SMTPtest.pdb
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\SMTPtest.csprojResolveAssemblyReference.cache
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\MainWindow.g.cs
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\App.g.cs
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\SMTPtest_MarkupCompile.cache
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\SMTPtest_MarkupCompile.lref
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\MainWindow.baml
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\SMTPtest.g.resources
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\SMTPtest.Properties.Resources.resources
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\SMTPtest.csproj.GenerateResource.Cache
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\SMTPtest.exe
+c:\users\spencer\documents\visual studio 2017\Projects\SMTPtest\SMTPtest\obj\Debug\SMTPtest.pdb
